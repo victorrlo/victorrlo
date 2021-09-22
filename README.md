@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @victor.dsman
+- 👋 Hi, I’m @victor.rlo
 - 👀 I’m interested in Games in general, but mostly Game Development and Game Design, and a bit of Game Art (I love PIXELS!).
-- 🌱 I’m currently learning 👨‍💻 Computer Science in UFRRJ, doing 🔮 Game Development Courses and playing ⚔️ Souls games.
-- 💞️ I’m looking to collaborate on Game Development or Apps that use Game Concepts to make it richer.
+- 🍠 I'm also interested in Front-End Development.
+- 🌱 I’m currently 👨‍💻 Computer Science undergrad in UFRRJ, doing 🔮 Game Development and Front-End Development courses during my free time and during my free-free-time playing ⚔️ Souls games(or Ragnarök Online... 😆).
+- 💞️ I’m currently looking for internship opportunities. 
 - 📫 How to reach me: victor.rl.oliveira@gmail.com   
 
 <!---
