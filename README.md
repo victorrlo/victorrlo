@@ -3,7 +3,7 @@
 ## 👨‍💻 Computer Science undergrad - UFRRJ 🇧🇷
 - 👀 I’m interested in Games in general, but mostly Game Development, Game Design, and a bit of Game Art.
 - 🖥 I'm also interested in Front-End Development.
-- ⚔️ And during my free-free-time playing Souls games(or Ragnarök Online).
+- ⚔️ During my free-time I'm usually playing Souls games(or Ragnarök Online).
 - 💻 I’m currently looking for internship opportunities.   
 
 <!---
