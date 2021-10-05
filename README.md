@@ -1,7 +1,7 @@
 # 👋😃 Hi, I’m Victor Leta!
 
 ## 👨‍💻 Computer Science undergrad - UFRRJ 🇧🇷
-- 👀 I’m interested in Games in general, but mostly Game Development and Game Design, and a bit of Game Art.
+- 👀 I’m interested in Games in general, but mostly Game Development, Game Design, and a bit of Game Art.
 - 🖥 I'm also interested in Front-End Development.
 - ⚔️ And during my free-free-time playing Souls games(or Ragnarök Online).
 - 💻 I’m currently looking for internship opportunities.   
