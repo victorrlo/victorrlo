@@ -7,7 +7,7 @@
 - 💻 I’m currently looking for internship opportunities.   
 
 ![A GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrlo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight)](https://github.com/victorrlo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrlo&layout=compact&theme=tokyonight)](https://github.com/victorrlo)
 
 
 <!---
