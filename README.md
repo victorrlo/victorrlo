@@ -1,13 +1,20 @@
-# 👋😃 Hi, I’m Victor Leta!
+<h1 align="center">
+  👋😃 Hi, I’m Victor Leta!
+  
+<h4 align="center">
+  
+  ![hm](https://i.imgur.com/FEt4fFm.gif)
+  
+<hr>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta-13475015b)
 
 ## 👨‍💻 Computer Science undergrad - UFRRJ 🇧🇷
-- 👀 I’m interested in Games in general, but mostly Game Development, Game Design, and a bit of Game Art.
-- 🖥 I'm also interested in Front-End Development.
-- ⚔️ During my free-time I'm usually playing Souls games(or Ragnarök Online).
-- 💻 I’m currently looking for internship opportunities.   
+### Front-End Development and Game Development!
+### 💻 I’m currently looking for internship opportunities!   
 
-![A GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrlo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrlo&layout=compact&theme=tokyonight)](https://github.com/victorrlo)
+![A GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrlo&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrlo&&show_icons=true&layout=compact&theme=dracula)](https://github.com/victorrlo)
 
 
 <!---
