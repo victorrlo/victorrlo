@@ -13,7 +13,6 @@
 ### Front-End Development and Game Development!
 ### 💻 I’m currently looking for internship opportunities!   
 
-![A GitHub stats](https://github-readme-stats.vercel.app/api?username=victorrlo&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrlo&&show_icons=true&layout=compact&theme=dracula)](https://github.com/victorrlo)
 
 
