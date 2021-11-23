@@ -7,7 +7,7 @@
   
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta-13475015b)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)
 
 ## 👨‍💻 Computer Science undergrad - UFRRJ 🇧🇷
 ### Front-End Development!
