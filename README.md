@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta-13475015b)
 
 ## 👨‍💻 Computer Science undergrad - UFRRJ 🇧🇷
-### Front-End Development and Game Development!
+### Front-End Development!
 ### 💻 I’m currently looking for internship opportunities!   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrlo&&show_icons=true&layout=compact&theme=dracula)](https://github.com/victorrlo)
