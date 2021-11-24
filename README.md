@@ -3,7 +3,7 @@
   
 <h4 align="center">
   
-  ![hm](https://i.imgur.com/PlUYP1B.gifv)
+  ![hm](https://i.imgur.com/PlUYP1B.gif)
   
 <hr>
 
