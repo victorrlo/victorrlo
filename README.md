@@ -1,9 +1,10 @@
 <h1 align="center">
-  👋😃 Hi, I’m Victor Leta!
+  <img src="img/charrag.gif" alt="meu personagem em ragnarok"> Hi, I’m Victor Leta!
   
 <h4 align="center">
   
-  ![hm](https://github.com/victorrlo/victorrlo/blob/main/img/5312.png)
+  ![magic sword skill](https://github.com/victorrlo/victorrlo/blob/main/img/5312.png)
+  ![github icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/githubicon3.png)
   
 <hr>
 
