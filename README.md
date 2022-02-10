@@ -5,12 +5,9 @@
   
 <h4 align="center">
   
-  ![github icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/githubicon3.png)
-  ![vscode icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/vscodeicon2.png)![terminal icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/terminalicon.png)
-
-  ![html icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/htmlicon.png)
-  ![css icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/cssicon.png)
-  ![js icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/javascripticon.png)  
+  ![github icon skill](img/githubicon3.png) ![vscode icon skill](img/vscodeicon2.png) ![terminal icon skill](img/terminalicon.png)
+  
+  ![html icon skill](img/htmlicon.png) ![css icon skill](img/cssicon.png) ![js icon skill](img/javascripticon.png)  
   
 <hr>
 
