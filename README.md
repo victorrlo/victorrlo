@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="img/Screenshot_28.png" alt="meu personagem em ragnarok" width=100>
   
-  <img src="img/Emote_no1.gif" alt="emote /no1 do ragnarok"> Hi, I’m Victor Leta! 
+  <img src="img/Emote_no1.gif" alt="emote /no1 do ragnarok" width=35> Hi, I’m Victor Leta! 
   
 <h4 align="center">
   <img src="img/githubicon3.png" alt="github skill icon" width= 50> <img src="img/terminalicon.png" alt="terminal skill icon" width= 50> <img src="img/vscodeicon2.png" alt="vscode skill icon" width= 50>
