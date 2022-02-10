@@ -17,7 +17,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)
 
 ## <img src="img/1.png"> Computer Science undergrad - UFRRJ 🇧🇷
-## <img src="img/4.png"> Front-End Development!
+### <img src="img/4.png"> Front-End Development!
 
 <img src="img/23.png"> I’m currently looking for internship opportunities!   
 
