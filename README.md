@@ -6,8 +6,7 @@
 <h4 align="center">
   
   ![github icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/githubicon3.png)
-  ![vscode icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/vscodeicon2.png)  
-  ![terminal icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/terminalicon.png)
+  ![vscode icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/vscodeicon2.png)![terminal icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/terminalicon.png)
 
   ![html icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/htmlicon.png)
   ![css icon skill](https://github.com/victorrlo/victorrlo/blob/main/img/cssicon.png)
