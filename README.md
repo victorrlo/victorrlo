@@ -4,19 +4,18 @@
    Hi, I’m Victor Leta! <img src="img/Emote_no1.gif" alt="emote /no1 do ragnarok">
   
 <h4 align="center">
+  <img src="img/githubicon3.png" alt="github skill icon" width= 50> <img src="img/terminalicon.png" alt="terminal skill icon" width= 50> <img src="img/vscodeicon2.png" alt="vscode skill icon" width= 50>
   
-  ![github icon skill](img/githubicon3.png) ![vscode icon skill](img/vscodeicon2.png) ![terminal icon skill](img/terminalicon.png)
-  
-  ![html icon skill](img/htmlicon.png) ![css icon skill](img/cssicon.png) ![js icon skill](img/javascripticon.png)  
+  <img src="img/htmlicon.png" alt="html skill icon" width= 50> <img src="img/cssicon.png" alt="css skill icon" width= 50> <img src="img/javascripticon.png" alt="javascript skill icon" width= 50>  
   
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)
 
-## <img src="img/1.png"> Computer Science undergrad - UFRRJ 🇧🇷
-### <img src="img/4.png"> Front-End Development!
+## <img src="img/1.png" width= 50> Computer Science undergrad - UFRRJ 🇧🇷
+## <img src="img/4.png" width= 50> Front-End Development!
 
-<img src="img/23.png"> I’m currently looking for internship opportunities!   
+## <img src="img/23.png" width= 50> I’m currently looking for internship opportunities!   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrlo&&show_icons=true&layout=compact&theme=dracula)](https://github.com/victorrlo)
 
