@@ -4,7 +4,7 @@
   <img src="img/Emote_no1.gif" alt="emote /no1 do ragnarok" width=35> Hi, I’m Victor Leta! 
   
 <h4 align="center">
-  <img src="img/githubicon3.png" alt="github skill icon" width= 50> <img src="img/terminalicon.png" alt="terminal skill icon" width= 50> <img src="img/vscodeicon2.png" alt="vscode skill icon" width= 50>
+  <img src="img/githubicon3.png" alt="github skill icon" width= 50> <img src="img/terminalicon2.png" alt="terminal skill icon" width= 50> <img src="img/vscodeicon2.png" alt="vscode skill icon" width= 50>
   
   <img src="img/htmlicon.png" alt="html skill icon" width= 50> <img src="img/cssicon.png" alt="css skill icon" width= 50> <img src="img/javascripticon.png" alt="javascript skill icon" width= 50>  
   
