@@ -17,8 +17,7 @@
 
 ## <img src="img/23.png" width= 50> I’m currently looking for internship opportunities!   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrlo&&show_icons=true&layout=compact&theme=dracula)](https://github.com/victorrlo)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrlo&&show_icons=true&layout=compact&theme=default)](https://github.com/victorrlo)
 
 <!---
 victorrlo/victorrlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
