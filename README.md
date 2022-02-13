@@ -5,11 +5,9 @@
   
 <h4 align="center">
   <img src="img/githubbadge.png" alt="github skill icon" width= 50> <img src="img/terminalbadge.png" alt="terminal skill icon" width= 50> <img src="img/vscodebadge.png" alt="vscode skill icon" width= 50> 
-
-  
+     
   <img src="img/cleancodebadge.png" alt="clean code skill icon" width= 50>
-  
-  
+
   <img src="img/htmlbadge.png" alt="html skill icon" width= 50> <img src="img/cssbadge.png" alt="css skill icon" width= 50> <img src="img/javascriptbadge.png" alt="javascript skill icon" width= 50>  
   
 <hr>
