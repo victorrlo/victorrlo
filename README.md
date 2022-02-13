@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="img/ragnarokicon" alt="ícone ragnarok onlinek" width=100>
+  <img src="img/ragnarokicon.png" alt="ícone ragnarok onlinek" width=100>
   
   <img src="img/emote_no1.gif" alt="emote /no1 do ragnarok" width=35> Hi, I’m Victor Leta! 
   
