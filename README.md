@@ -6,25 +6,26 @@
 
 </h1>
 
-<h2 align="center"> Ferramentas
+<h2 align="center">
 
   <img src="img/githubbadge.png" alt="github skill icon" width= 50> <img src="img/terminalbadge.png" alt="terminal skill icon" width= 50> <img src="img/vscodebadge.png" alt="vscode skill icon" width= 50> 
 
 </h2>
 
-<h2 align="center"> Conceitos
+<h2 align="center">
 
   <img src="img/cleancodebadge.png" alt="clean code skill icon" width= 50>
+  </h2>
 
-</h2>
+<h2 align="center">
 
-<h2 align="center"> Conhecimentos
-
-  <img src="img/htmlbadge.png" alt="html skill icon" width= 50> <img src="img/cssbadge.png" alt="css skill icon" width= 50> <img src="img/javascriptbadge.png" alt="javascript skill icon" width= 50>  
+<img src="img/htmlbadge.png" alt="html skill icon" width= 50> <img src="img/cssbadge.png" alt="css skill icon" width= 50> <img src="img/javascriptbadge.png" alt="javascript skill icon" width= 50>  
 
 </h2>
 
 <hr>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)
 
 ## <img src="img/basicsbadge.png" width= 50> Computer Science undergrad - UFRRJ 🇧🇷
 ## <img src="img/lovebadge.png" width= 50> Front-End Development!
