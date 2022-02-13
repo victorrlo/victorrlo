@@ -23,9 +23,11 @@
 
 </h2>
 
-<hr>
+<hr align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)
+
+</hr>
 
 ## <img src="img/basicsbadge.png" width= 50> Computer Science undergrad - UFRRJ 🇧🇷
 ## <img src="img/lovebadge.png" width= 50> Front-End Development!
