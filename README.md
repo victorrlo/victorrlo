@@ -6,22 +6,22 @@
 
 </h1>
 
-<h2 align="center">
+<h3 align="center">
 
   <img src="img/githubbadge.png" alt="github skill icon" width= 50> <img src="img/terminalbadge.png" alt="terminal skill icon" width= 50> <img src="img/vscodebadge.png" alt="vscode skill icon" width= 50> 
 
-</h2>
+</h3>
 
-<h2 align="center">
+<h3 align="center">
 
   <img src="img/cleancodebadge.png" alt="clean code skill icon" width= 50>
-  </h2>
+  </h3>
 
-<h2 align="center">
+<h3 align="center">
 
 <img src="img/htmlbadge.png" alt="html skill icon" width= 50> <img src="img/cssbadge.png" alt="css skill icon" width= 50> <img src="img/javascriptbadge.png" alt="javascript skill icon" width= 50>  
 
-</h2>
+</h3>
 
 <hr align="center">
 
