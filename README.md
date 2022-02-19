@@ -8,20 +8,20 @@
 
 <h3 align="center">
 
-  <img src="img/githubbadge.png" alt="github skill icon" width= 50> <img src="img/terminalbadge.png" alt="terminal skill icon" width= 50> <img src="img/vscodebadge.png" alt="vscode skill icon" width= 50> 
+  <img src="img/githubbadge.png" alt="github skill icon" width= 60> <img src="img/terminalbadge.png" alt="terminal skill icon" width= 60> <img src="img/vscodebadge.png" alt="vscode skill icon" width= 60> 
 
 </h3>
 
 <h3 align="center">
 
-  <img src="img/cleancodebadge.png" alt="clean code skill icon" width= 50>
+  <img src="img/cleancodebadge.png" alt="clean code skill icon" width= 60>
   </h3>
 
 <h3 align="center">
 
-<img src="img/htmlintermediario.png" alt="html skill icon" width= 50> <img src="img/cssbadge.png" alt="css skill icon" width= 50> <img src="img/javascriptbadge.png" alt="javascript skill icon" width= 50>  
+<img src="img/htmlintermediario.png" alt="intermediate html skill icon" width= 60> <img src="img/cssintermediario.png" alt="intermediate css skill icon" width= 60> <img src="img/javascriptbadge.png" alt="basic javascript skill icon" width= 60>  
 
-<img src="img/htmlbasico.png" alt="html skill icon" width= 25>
+<img src="img/htmlbasico.png" alt="basic html skill icon" width=50 > <img src="img/cssbasico.png" alt="basic css skill icon" width= 50>
 
 </h3>
 
