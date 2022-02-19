@@ -19,7 +19,9 @@
 
 <h3 align="center">
 
-<img src="img/htmlbadge.png" alt="html skill icon" width= 50> <img src="img/cssbadge.png" alt="css skill icon" width= 50> <img src="img/javascriptbadge.png" alt="javascript skill icon" width= 50>  
+<img src="img/htmlintermediario.png" alt="html skill icon" width= 50> <img src="img/cssbadge.png" alt="css skill icon" width= 50> <img src="img/javascriptbadge.png" alt="javascript skill icon" width= 50>  
+
+<img src="img/htmlbasico.png" alt="html skill icon" width= 25>
 
 </h3>
 
