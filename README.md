@@ -19,7 +19,7 @@
 
 <h3 align="center">
 
-<img src="img/htmlintermediario.png" alt="intermediate html skill icon" width= 60> <img src="img/cssintermediario.png" alt="intermediate css skill icon" width= 60> <img src="img/javascriptbadge.png" alt="basic javascript skill icon" width= 60>  
+<img src="img/htmlintermediario.png" alt="intermediate html skill icon" width= 60> <img src="img/cssintermediario.png" alt="intermediate css skill icon" width= 60> <img src="img/javascriptbasico.png" alt="basic javascript skill icon" width= 60>  
 
 <img src="img/htmlbasico.png" alt="basic html skill icon" width=50 > <img src="img/cssbasico.png" alt="basic css skill icon" width= 50>
 
