@@ -17,10 +17,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)
 </div>
 
-<br>
-<br>
-<br>
-
 <div align="center">
     <img src="img/arvoreDeHabilidades.png" alt="árvore de habilidades estilo ragnarök online">
 
