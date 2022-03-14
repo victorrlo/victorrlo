@@ -1,4 +1,3 @@
-<head>
 <h1 align="center">
 
   <img src="img/ragnarokicon.png" alt="icon ragnarok onlinek" width=100>
@@ -6,12 +5,6 @@
   <img src="img/Emote_no1.gif" alt="emote /no1 do ragnarok" width=35> Hi, I’m Victor Leta!
 
 </h1>
-</head>
-<style>
-    .arvore-de-habilidades {
-        text-align: center;
-    }
-</style>
 
 <div class=arvore-de-habilidades>
     <img src="img/arvoreDeHabilidades.png" alt="árvore de habilidades estilo ragnarök online">
