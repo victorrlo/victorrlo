@@ -15,7 +15,10 @@
 <img src="img/internshipbadge.png" width= 25> I’m currently looking for internship opportunities!   
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&color=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)
+## Social  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&color=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)&nbsp;
+ [![Steam](https://img.shields.io/badge/STEAM-white?logo=Steam&color=white&style=for-the-badge&logoColor=204ECF)](https://steamcommunity.com/id/victor.leta/)&nbsp;
+  
 
 ## Conhecimentos
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&color=white) &nbsp;
@@ -23,8 +26,8 @@
 
 ## Ferramentas
 ![Git](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=Git) &nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=black&style=for-the-badge&labelColor=white&color=white) &nbsp;
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=blue&labelColor=white&color=white) &nbsp;
+![GitHub](https://img.shields.io/badge/github-23121011.svg?logo=github&logoColor=73398D&style=for-the-badge&color=white) &nbsp;
+![Windows](https://img.shields.io/badge/Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=blue&color=white) &nbsp;
 
 
 <!---
