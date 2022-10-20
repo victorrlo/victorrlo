@@ -6,7 +6,7 @@
 
 </h1>
 
-<div align="center">
+<div align="flex-end">
 
 <img src="img/basicsbadge.png" width= 25> Computer Science undergrad - UFRRJ 🇧🇷
 
@@ -15,15 +15,16 @@
 <img src="img/internshipbadge.png" width= 25> I’m currently looking for internship opportunities!   
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&color=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)
 
-<br>
-</hr>
-<div align="center">
+## Conhecimentos
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&color=white) &nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&color=white) &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrlo&&show_icons=true&theme=default)](https://github.com/victorrlo)
-</div>
+## Ferramentas
+![Git](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=Git) &nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=black&style=for-the-badge&labelColor=white&color=white) &nbsp;
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=blue&labelColor=white&color=white) &nbsp;
 
 
 <!---
