@@ -16,18 +16,18 @@
 <br>
 
 ## Social  
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&color=white&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)&nbsp;
- [![Steam](https://img.shields.io/badge/STEAM-white?logo=Steam&color=white&style=for-the-badge&logoColor=204ECF)](https://steamcommunity.com/id/victor.leta/)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&color=blue&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)&nbsp;
+ [![Steam](https://img.shields.io/badge/STEAM-white?logo=Steam&color=004880&style=for-the-badge&logoColor=white)](https://steamcommunity.com/id/victor.leta/)&nbsp;
   
 
 ## Conhecimentos
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&color=white) &nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&color=white) &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26) &nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6) &nbsp;
 
 ## Ferramentas
-![Git](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=Git) &nbsp;
-![GitHub](https://img.shields.io/badge/github-23121011.svg?logo=github&logoColor=73398D&style=for-the-badge&color=white) &nbsp;
-![Windows](https://img.shields.io/badge/Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=blue&color=white) &nbsp;
+![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=Git&logoColor=white) &nbsp;
+![GitHub](https://img.shields.io/badge/github-23121011.svg?logo=github&logoColor=white&style=for-the-badge&color=73398D) &nbsp;
+![Windows](https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=white&color=00ADEF) &nbsp;
 
 
 <!---
