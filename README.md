@@ -27,7 +27,8 @@
 ![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=Git&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/github-23121011.svg?logo=github&logoColor=white&style=for-the-badge&color=73398D) &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=white&color=00ADEF) &nbsp;
-
+![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=Unity&logoColor=white&color=black) &nbsp;
+![Plastic SCM](https://img.shields.io/badge/PlasticSCM-F67909?style=for-the-badge&logo=unity&logoColor=white) &nbsp;
 
 <!---
 victorrlo/victorrlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
