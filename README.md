@@ -10,12 +10,13 @@
  [![Steam](https://img.shields.io/badge/STEAM-white?logo=Steam&color=004880&style=for-the-badge&logoColor=white)](https://steamcommunity.com/id/victor.leta/)&nbsp;
 <div align="flex-end">
 
-<img src="img/basicsbadge.png" width= 25> Computer Science undergrad - UFRRJ 🇧🇷
+## Sobre mim ⚔
 
-<img src="img/lovebadge.png" width= 25> Front-End Development!
+👨‍💻 Procurando <b>Estágio</b> em Programação!<br>
+🖥 Estudando Front-End com o DevQuest!<br>
+📚 Fazendo Graduação em Ciência da Computação na UFRRJ!<br>
+🎮 Jogando ELDEN RING no Playstation nas horas vagas!<br>
 
-<img src="img/internshipbadge.png" width= 25> I’m currently looking for internship opportunities!   
-<br>
   
 
 ## Conhecimentos
