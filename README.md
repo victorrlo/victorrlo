@@ -15,7 +15,7 @@
 👨‍💻 Procurando <b>Estágio</b> em Programação!<br>
 🖥 Estudando Front-End com o DevQuest!<br>
 📚 Fazendo Graduação em Ciência da Computação na UFRRJ!<br>
-🎮 Jogando ELDEN RING no Playstation nas horas vagas!<br>
+🎮 Jogando ELDEN RING no ![Playstation](https://img.shields.io/badge/Playstation-white?style=for-the-badge&logo=playstation&logoColor=003791) &nbsp; nas horas vagas!<br>
 
   
 
@@ -29,6 +29,7 @@
 ![Windows](https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=white&color=00ADEF) &nbsp;
 ![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=Unity&logoColor=white&color=black) &nbsp;
 ![Plastic SCM](https://img.shields.io/badge/PlasticSCM-F67909?style=for-the-badge&logo=unity&logoColor=white) &nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
 
 <!---
 victorrlo/victorrlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
