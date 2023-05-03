@@ -15,7 +15,6 @@
 👨‍💻 Procurando <b>Estágio</b> em Programação!<br>
 🖥 Estudando Front-End com o DevQuest!<br>
 📚 Fazendo Graduação em Ciência da Computação na UFRRJ!<br>
-🎮 Jogando ELDEN RING no ![Playstation](https://img.shields.io/badge/Playstation-white?style=for-the-badge&logo=playstation&logoColor=003791) &nbsp; nas horas vagas!<br>
 
   
 
