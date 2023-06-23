@@ -21,6 +21,7 @@
 ## Conhecimentos
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26) &nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6) &nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=000000&color=F7DF1E) &nbsp;
 
 ## Ferramentas
 ![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=Git&logoColor=white) &nbsp;
