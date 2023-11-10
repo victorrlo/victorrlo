@@ -5,8 +5,6 @@
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&color=blue&link=https://github.com/victorrlo)](https://www.linkedin.com/in/victor-leta)&nbsp;
- [![Steam](https://img.shields.io/badge/STEAM-white?logo=Steam&color=004880&style=for-the-badge&logoColor=white)](https://steamcommunity.com/id/victor-leta/)&nbsp;
-<div align="flex-end">
 
 ## Sobre mim ⚔
 
