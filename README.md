@@ -9,7 +9,7 @@
 ## Sobre mim ⚔
 
 👨‍💻 <b>Estagiando</b> na Edify! Mais especificamente no Edify Play!<br> 
-🖥 Estudando Front-End com o DevQuest!<br>
+🖥 Desenvolvendo um jogo como Trablho de Conclusão de Curso!<br>
 📚 Fazendo Graduação em Ciência da Computação na UFRRJ!<br>
 
   
